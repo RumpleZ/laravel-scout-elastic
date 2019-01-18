@@ -32,6 +32,12 @@
             ]
         }
     },
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/RumpleZ/laravel-scout-elastic"
+        }
+    ],
     "minimum-stability": "dev",
     "prefer-stable": true
 }
